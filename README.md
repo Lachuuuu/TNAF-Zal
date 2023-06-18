@@ -1,5 +1,6 @@
 # CV website  
 Projekt zaliczeniowy z przedmiotu Tworzenie nowoczesnych aplikacji frontendowych w praktyce.  
+https://lachuuuu.github.io/TNAF-Zal/  
 
 # Wykorzystane technologie  
 - React  
