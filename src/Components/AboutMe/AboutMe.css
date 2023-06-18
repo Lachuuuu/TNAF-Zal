@@ -1,0 +1,6 @@
+.positionBox {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 700px;
+}
