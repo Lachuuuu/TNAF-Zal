@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TNAF-Zal/static/css/main.641ee874.css",
+    "main.js": "/TNAF-Zal/static/js/main.eb9b5611.js",
+    "static/js/787.f3f846c0.chunk.js": "/TNAF-Zal/static/js/787.f3f846c0.chunk.js",
+    "index.html": "/TNAF-Zal/index.html",
+    "main.641ee874.css.map": "/TNAF-Zal/static/css/main.641ee874.css.map",
+    "main.eb9b5611.js.map": "/TNAF-Zal/static/js/main.eb9b5611.js.map",
+    "787.f3f846c0.chunk.js.map": "/TNAF-Zal/static/js/787.f3f846c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641ee874.css",
+    "static/js/main.eb9b5611.js"
+  ]
+}
