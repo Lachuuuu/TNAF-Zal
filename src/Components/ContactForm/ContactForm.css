@@ -1,0 +1,54 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    background-color: wheat;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+textarea {
+    background-color: wheat;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+button {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: wheat;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+button:hover {
+    background-color: orangered;
+}
+
+.errorBox {
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    background-color: red;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.successBox {
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    background-color: lawngreen;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+}

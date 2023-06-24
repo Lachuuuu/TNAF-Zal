@@ -5,10 +5,9 @@ function Experience() {
     const [exp,setExp] = useState([])
 
     useEffect(() => {
-        fetch('./ExperienceHistory.json')
+        fetch('/TNAF-Zal/ExperienceHistory.json')
             .then(response => response.json())
             .then(data => {
-                console.log(data)
                 setExp(data);
             })
             .catch(error => {
